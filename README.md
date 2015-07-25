@@ -1,19 +1,17 @@
 ##Coursera Getting and Cleaning Data - Course Project
 README.md
 ==================================================================
-Authore: Cecilia Daniels
-Date: 7/25/22015
+### Author: Cecilia Daniels
+###Date: 7/25/22015
 ==================================================================
 
 ###In this project:
-Input activity data UCI HAR Data was used to create a subset of Mean and Std Deviation data elements in the test and training data sets. This data set is 
-
-subsequently used to create a final tidyData set with the average of each variable, for each activity, for each subject.
+Input activity data UCI HAR Data was used to create a subset of Mean and Std Deviation data elements in the test and training data sets. This data set is subsequently used to create a final tidyData set with the average of each variable, for each activity, for each subject.
 
 ###Github repo: https://github.com/CeciliaDaniels/GettingAndCleaningDataProject
 ###Repo Contents:
 run_analysis.r: R programming script for reading and processing the UCI HAR Data
-README.txt: This document
+README.md: This document
 CodeBook.md: Describes the input and output data and the processing steps 
 
 ### To run this code in your environment:

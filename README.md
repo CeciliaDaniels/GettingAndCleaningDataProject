@@ -1,4 +1,4 @@
-#Coursera Getting and Cleaning Data - Course Project
+##Coursera Getting and Cleaning Data - Course Project
 README.md
 ==================================================================
 Authore: Cecilia Daniels
@@ -10,7 +10,7 @@ Input activity data UCI HAR Data was used to create a subset of Mean and Std Dev
 
 subsequently used to create a final tidyData set with the average of each variable, for each activity, for each subject.
 
-## Github repo: https://github.com/CeciliaDaniels/GettingAndCleaningDataProject
+###Github repo: https://github.com/CeciliaDaniels/GettingAndCleaningDataProject
 ###Repo Contents:
 run_analysis.r: R programming script for reading and processing the UCI HAR Data
 README.txt: This document
